@@ -222,3 +222,14 @@ if 5 > 2:
  print("Five is greater than two!")
         print("Five is greater than two!")
 
+
+**Comment in python**
+
+Comment sign in python is #
+Comments(#) can be used to explain Python code.
+Comments can be used to make the code more readable.
+Comments can be used to prevent execution when testing code.
+Comments starts with a #, and Python will ignore them:
+like #this is integer
+# this is comment
+print("hello_moon")
