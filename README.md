@@ -1,6 +1,6 @@
 # Python**
 **Difference between Python Shell(Interactive mode) VS Script Mode(Editor Window)?****
-=Both are the python interpretor to run the code
+=Both(**IDLE**)are the python interpretor to run the code
 
 **Python shell(Interactive mode)** is the one of the interperetor to run the program but its has many demerits like below:-
 1.its excute the program or code Line by Line.(one line at a time).
@@ -22,6 +22,16 @@
 7.Input or output multi step logic.
 8.Reusable/Clean/Organise.
 
+🧠 Features of IDLE
+
+
+| Feature             | Description                             |
+| ------------------- | --------------------------------------- |
+| Syntax Highlighting | Colors for keywords, strings, etc.      |
+| Auto-indentation    | Proper spacing for Python blocks        |
+| Run with F5         | Quick script execution                  |
+| Built-in debugger   | Step through code (basic functionality) |
+| Lightweight         | No installation of extra tools needed   |
 
 
 
