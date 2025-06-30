@@ -66,3 +66,18 @@
 | Working with virtual environments               | ❌ No          | No built-in virtual environment selector                |
 | Building professional applications or APIs      | ❌ No          | Not scalable for advanced development workflows         |
 
+
+**❌ When Not to Use IDLE (Just as Important)**
+
+Avoid IDLE if:-
+You're building complex projects or apps
+You need version control (Git)
+You're working with data science tools (e.g., pandas, matplotlib)
+You want code suggestions, linting, or auto-formatting
+You prefer dark themes or customization
+
+Use tools like:-
+VS Code → general dev
+PyCharm → professional dev
+Jupyter Notebook → data science
+Google Colab → cloud-based ML/dev
