@@ -116,14 +116,14 @@ Use tools like:-
 | **Debugging Support**              | None                                       | Basic debugger (step-through)                          |
 | **Ideal For**                      | Beginners testing small commands           | Beginners writing structured code                      |
 | **Limitations**                    | No saving, hard to manage logic-heavy code | No extensions, project tools, Git, virtual env support |
-| **Can Save Code**                  | ❌ No                                       | ✅ Yes                                                  |
-| **Can Run with F5**                | ❌ No                                       | ✅ Yes                                                  |
+| **Can Save Code**                  | ❌ No                                     | ✅ Yes                                                  |
+| **Can Run with F5**                | ❌ No                                     | ✅ Yes                                                  |
 | **Keyboard Shortcuts**             | Few                                        | `F5` to run, `Ctrl+S` to save, `Ctrl+/` for comment    |
-| **Performance**                    | Very fast                                  | Fast for small to medium scripts                       |
-| **Project Management**             | ❌ None                                     | ❌ None                                                 |
-| **Suitable for Large Projects**    | ❌ No                                       | ❌ No                                                   |
-| **Supports Data Science/Plots**    | ❌ No                                       | ❌ No                                                   |
-| **Offline Use**                    | ✅ Yes                                      | ✅ Yes                                                  |
+| **Performance**                    | Very fast(Line by Line)                    | Fast for small to medium scripts                       |
+| **Project Management**             | ❌ None                                    | ❌ None                                                 |
+| **Suitable for Large Projects**    | ❌ No                                      | ❌ No                                                   |
+| **Supports Data Science/Plots**    | ❌ No                                      | ❌ No                                                   |
+| **Offline Use**                    | ✅ Yes                                     | ✅ Yes                                                  |
 | **Who Should Use It**              | Complete beginners                         | Beginners or casual users needing saved scripts        |
 
 
