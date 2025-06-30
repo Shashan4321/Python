@@ -10,6 +10,7 @@
 5.Limited Debugging feature.
 6.Messy in python shell.
 7.Leaern basic syntex.
+8.Not reusable/messy.
 
 **Script Mode(Editor Window)** is the one of the interepretor to run the program have many benefits like below:-
 1.Run multiple line program or code at once(too fast).
@@ -19,6 +20,7 @@
 5.Writing actual script or program.
 6.Writing and saving full program.
 7.Input or output multi step logic.
+8.Reusable/Clean/Organise.
 
 
 
