@@ -96,3 +96,45 @@ Use tools like:-
 | File Handling | Save and run `.py` files easily             |
 | Limitations   | No Git, no extensions, no real project view |
 
+
+**✅ Python IDLE: Final Summary Table**
+
+| **Aspect**                         | **Python Shell (Interactive Mode)**        | **Script Mode (Editor Window)**                        |
+| ---------------------------------- | ------------------------------------------ | ------------------------------------------------------ |
+| **What It Is**                     | Line-by-line interpreter (REPL)            | Full editor to write and run `.py` files               |
+| **Launch Method**                  | Opens automatically when you start IDLE    | File → New File                                        |
+| **Prompt**                         | `>>>` (real-time input/output)             | No prompt; you write full scripts                      |
+| **Execution Style**                | One command at a time                      | Entire file runs together with `F5`                    |
+| **Multi-line Code Support**        | Limited, awkward for functions/loops       | Full support for multi-line code                       |
+| **File Saving**                    | Not saved unless manually copied           | Save scripts as `.py` files                            |
+| **Reusability**                    | Not reusable after closing                 | Can reopen and re-run any time                         |
+| **Best Use Case**                  | Quick tests, learning basics               | Writing reusable programs and functions                |
+| **Supports `input()`**             | Yes, but messy in flow                     | Yes, runs smoothly                                     |
+| **Output Display**                 | Immediate in same window                   | Output shown in Shell                                  |
+| **Syntax Highlighting**            | Yes                                        | Yes                                                    |
+| **Code Completion / Autocomplete** | Very limited                               | Very limited                                           |
+| **Debugging Support**              | None                                       | Basic debugger (step-through)                          |
+| **Ideal For**                      | Beginners testing small commands           | Beginners writing structured code                      |
+| **Limitations**                    | No saving, hard to manage logic-heavy code | No extensions, project tools, Git, virtual env support |
+| **Can Save Code**                  | ❌ No                                       | ✅ Yes                                                  |
+| **Can Run with F5**                | ❌ No                                       | ✅ Yes                                                  |
+| **Keyboard Shortcuts**             | Few                                        | `F5` to run, `Ctrl+S` to save, `Ctrl+/` for comment    |
+| **Performance**                    | Very fast                                  | Fast for small to medium scripts                       |
+| **Project Management**             | ❌ None                                     | ❌ None                                                 |
+| **Suitable for Large Projects**    | ❌ No                                       | ❌ No                                                   |
+| **Supports Data Science/Plots**    | ❌ No                                       | ❌ No                                                   |
+| **Offline Use**                    | ✅ Yes                                      | ✅ Yes                                                  |
+| **Who Should Use It**              | Complete beginners                         | Beginners or casual users needing saved scripts        |
+
+
+**🧠 Quick Recommendation Table**
+
+| **If You Want To...**                     | **Use This Mode**                              |
+| ----------------------------------------- | ---------------------------------------------- |
+| Test a single line or function quickly    | Python Shell                                   |
+| Write and save a full program             | Script Mode                                    |
+| Build something reusable                  | Script Mode                                    |
+| Learn Python syntax hands-on              | Python Shell                                   |
+| Run a multi-step input/output flow        | Script Mode                                    |
+| Work without internet or setup            | Either (both offline)                          |
+| Build complex apps, use Git or extensions | ❌ Not recommended – use VS Code, PyCharm, etc. |
