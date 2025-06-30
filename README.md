@@ -194,3 +194,31 @@ Execute Python Syntax
 As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:(python shell/interactive mode)
 Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:(script mode/editor window)
 
+
+**Python Indentation**
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
+Python uses indentation to indicate a block of code.
+
+The number of spaces(indentation) is up to you as a programmer, the most common use is four, but it has to be at least one.
+(if 5 > 2:
+ print("Five is greater than two!") 
+if 5 > 2:
+        print("Five is greater than two!"))
+
+**examplpe:-
+
+if 5 > 2:
+  print("Five is greater than two!")**
+
+syntax error
+if 5 > 2:
+print("Five is greater than two!")
+
+You have to use the same number of spaces in the same block of code, otherwise Python will give you an error:
+
+syntax wrong
+if 5 > 2:
+ print("Five is greater than two!")
+        print("Five is greater than two!")
+
