@@ -28,7 +28,7 @@
 | Feature             | Description                             |
 | ------------------- | --------------------------------------- |
 | Syntax Highlighting | Colors for keywords, strings, etc.      |
-| Auto-indentation    | Proper spacing for Python blocks        |
+| Auto-indentation    | Proper spacing for Python blocks        |Indent*(left-hand side of the page)
 | Run with F5         | Quick script execution                  |
 | Built-in debugger   | Step through code (basic functionality) |
 | Lightweight         | No installation of extra tools needed   |
@@ -47,7 +47,8 @@
 | 7️⃣ | **No Native Virtual Environment Handling** | You have to set it up manually using command line; no venv chooser in UI.                                     |
 | 8️⃣ | **Performance Drops on Large Scripts**     | IDLE may freeze or slow down when running long or complex scripts.                                            |
 | 9️⃣ | **Doesn’t Auto Save**                      | You must manually save before running scripts (no autosave or version history).                               |
-|  🔟 | **No Code Linting or Suggestions**         | It won’t warn you about syntax errors or style issues unless you run the code.                                |
+| 🔟 | **No Code Linting or Suggestions**         | It won’t warn you about syntax errors or style issues unless you run the code.                                |
+| 🔟 | **No Git, no extensions, no real project view**  
 
  **✅ When to Use IDLE – Summary Table**
 
@@ -77,7 +78,21 @@ You want code suggestions, linting, or auto-formatting
 You prefer dark themes or customization
 
 Use tools like:-
-VS Code → general dev
-PyCharm → professional dev
-Jupyter Notebook → data science
-Google Colab → cloud-based ML/dev
+**VS Code** → general dev(lightweight, very powerful)
+**PyCharm** → professional dev(full-featured for serious apps)
+**Jupyter Notebook** → data science
+**Google Colab** → cloud-based ML/dev
+
+
+📌 **Summary: What You Should Know About IDLE**
+
+| Topic         | Details                                     |
+| ------------- | ------------------------------------------- |
+| Installation  | Comes with Python                           |
+| Ideal For     | Beginners, small scripts, quick testing     |
+| Not Ideal For | Large apps, data science, web development   |
+| Customizable? | Fonts, themes (limited)                     |
+| Debugging     | Basic step-through available                |
+| File Handling | Save and run `.py` files easily             |
+| Limitations   | No Git, no extensions, no real project view |
+
