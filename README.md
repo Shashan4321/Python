@@ -188,3 +188,9 @@ Automation Tools: Use with cron, .bat files, or task schedulers to automate Pyth
 | Jupyter Notebooks | Jupyter, Colab      | Data science, education               |
 | Online Platforms  | Colab, Replit       | Quick tests, sharing, cloud execution |
 
+**Python Syntex**
+
+Execute Python Syntax
+As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:(python shell/interactive mode)
+Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:(script mode/editor window)
+
